@@ -1,3 +1,0 @@
-Seller	卖方
-Date	日期
-Buyer	买方
